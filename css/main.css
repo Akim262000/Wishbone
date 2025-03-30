@@ -1,0 +1,380 @@
+.body {
+    font-family: "Poppins", sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+}
+
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+.nav-link {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-left: 18px !important;
+    padding-right: 18px !important;
+}
+
+.nav-link-black {
+    border-radius: 14px;
+}
+
+.about {
+    background-color: #ECE7E4;
+}
+.about_text {
+    padding: 7%;
+}
+
+.about span {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #645C55;
+    margin-bottom: 20px;
+}
+
+.about h1 {
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 70px;
+    color: #1B1A1A;
+    margin-bottom: 18px;
+}
+
+.about p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #403E3B;
+    margin-bottom: 30px;
+}
+
+.about a {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #1B1A1A;
+    text-decoration: none;
+    padding: 11px 20px;
+}
+
+.about img {
+    object-fit: cover;
+}
+
+.description {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.description h2 {
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 38px;
+    color: #403E3B;
+}
+
+.description p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #403E3B;
+}
+
+.description img {
+    width: 84px;
+    height: 84px;
+    object-fit: cover;
+    border-radius: 64px;
+    border: 3px solid #CEC4BC;
+}
+
+.description_user {
+    padding: 30px;
+}
+
+.description_user p {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #1B1A1A;
+}
+
+.description_user span {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 14px;
+    color: #645C55;
+}
+
+.reeding img {
+    width: 100%;
+}
+
+.reeding h4 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #403E3B;
+}
+
+.reeding p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    max-width: 240px;
+    color: #645C55;
+}
+
+.process {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.process h3 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #645C55;
+}
+
+.process h2 {
+    font-size: 39px;
+    font-weight: 400;
+    line-height: 42px;
+    color: #1B1A1A;
+}
+
+.process h5 {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #403E3B;
+}
+
+.process p {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #645C55;
+}
+
+.marble img {
+    width: 100%;
+}
+
+.marble h4 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #403E3B;
+}
+
+.marble p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    max-width: 270px;
+    color: #645C55;
+}
+
+.clients {
+    background-color: #403E3B;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.clients_text {
+    padding: 65px 0;
+}
+
+.clients span {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #ECE7E4;
+    text-transform: uppercase;
+}
+
+.clients h3 {
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 38px;
+    color: #FFFFFF;
+}
+
+.clients p {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #ECE7E4;
+    max-width: 450px;
+}
+
+.swirling img {
+    width: 100%;
+}
+
+.swirling h4 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #403E3B;
+}
+
+.swirling p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    max-width: 270px;
+    color: #645C55;
+}
+
+.projects {
+    padding-top: 120px;
+    padding-bottom: 100px;
+    background-color: #F7F7F7;
+}
+
+.projects h2 {
+    font-size: 39px;
+    font-weight: 400;
+    line-height: 42px;
+    color: #1B1A1A;
+}
+
+.projects p {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #645C55;
+}
+
+.projects span {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #645C55;
+}
+
+.projects h5 {
+    font-size: 23px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #403E3B;
+}
+
+.projects .col-4 a {
+    border-radius: 14px;
+    background-color: #1B1A1A;
+}
+
+.projects a {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #1B1A1A;
+    text-decoration: none;
+}
+
+.projects img {
+    max-width: 100%;
+}
+
+.team {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.team h3 {
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 38px;
+    color: #403E3B;
+}
+
+.team p {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #645C55;
+}
+
+.team a {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #1B1A1A;
+    text-decoration: none;
+}
+
+.team img {
+    width: 84px;
+    height: 84px;
+    object-fit: cover;
+    border-radius: 64px;
+    border: 3px solid #CEC4BC;
+}
+
+.team_user {
+    padding: 30px;
+}
+
+.team_user p {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #1B1A1A;
+}
+
+.team_user span {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 14px;
+    color: #645C55;
+}
+
+.contact {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #CEC4BC;
+}
+
+.contact span {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #645C55;
+    text-transform: uppercase;
+}
+
+.contact p {
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 42px;
+    color: #1B1A1A;
+    max-width: 570px;
+}
+
+.contact a {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #1B1A1A;
+    text-decoration: none;
+}
+
+.footer {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #F7F7F7;
+}
